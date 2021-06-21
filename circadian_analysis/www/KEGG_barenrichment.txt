@@ -1,0 +1,47 @@
+Name	Number_of_matches	p_value
+"nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs(2515)"	2515	9.00E-41
+"NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase(2126)"	2126	5.80E-25
+Aspartate-semialdehyde dehydrogenase(2133)	2133	4.52E-21
+"5-Methylthioribose kinase, methionine salvage pathway(130)"	130	1.82E-26
+"Sulfite reductase, alpha subunit (flavoprotein)(74)"	74	2.83E-27
+S-adenosylhomocysteine hydrolase(659)	659	1.24E-11
+"GAF domain-containing protein, putative methionine-R-sulfoxide reductase(442)"	442	4.29E-22
+L-serine deaminase(2695)	2695	1.07E-11
+Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase(2456)	2456	1.88E-12
+Homocysteine/selenocysteine methylase (S-methylmethionine-dependent)(197)	197	3.13E-06
+L-cysteine desulfidase(1735)	1735	0.005324762
+Cytosine/adenosine deaminase or related metal-dependent hydrolase(3007)	3007	0.012832972
+"3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains(269)"	269	0.007357489
+Homoserine trans-succinylase(1436)	1436	0.001095758
+Site-specific DNA-cytosine methylase(16609)	16609	0.001095758
+"Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits(1816)"	1816	0.026160634
+"S-ribosylhomocysteine lyase LuxS, autoinducer biosynthesis(1051)"	1051	1.41E-05
+Serine acetyltransferase(3742)	3742	0.273353664
+3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme(3197)	3197	5.66E-05
+Malate/lactate dehydrogenase(2438)	2438	0.081671004
+Methionine synthase II (cobalamin-independent)(1162)	1162	0.042651483
+"O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent(2768)"	2768	0.122663349
+Cysteine synthase(2847)	2847	0.000248656
+"ABC-type Fe3+/spermidine/putrescine transport systems, ATPase components(6455)"	6455	1.09E-10
+S-adenosylmethionine synthetase(3968)	3968	0.062363241
+Fe-S-cluster-containing dehydrogenase component(1538)	1538	0.000831951
+Cystathionine beta-lyase/cystathionine gamma-synthase(1078)	1078	0.090263734
+Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities(2792)	2792	0.002773852
+"Methionine synthase I, cobalamin-binding domain(3199)"	3199	0.008783094
+ATP sulfurylase (sulfate adenylyltransferase)(11)	11	0.012192366
+"NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit(1647)"	1647	0.025570003
+Aspartate/tyrosine/aromatic aminotransferase(388)	388	0.023250231
+Nucleoside phosphorylase(1821)	1821	0.182998416
+"Succinate dehydrogenase/fumarate reductase, flavoprotein subunit(4731)"	4731	0.034412083
+"Sulfate adenylyltransferase subunit 1, EFTu-like GTPase family(450)"	450	0.491001873
+Aspartate/methionine/tyrosine aminotransferase(8648)	8648	0.29799996
+"Acireductone dioxygenase (methionine salvage), cupin superfamily(16)"	16	0.37657923
+"ABC-type nitrate/sulfonate/bicarbonate transport system, periplasmic component(3261)"	3261	0.944038974
+Homoserine dehydrogenase(1777)	1777	0.617842518
+"Glutathione synthase/RimK-type ligase, ATP-grasp superfamily(1180)"	1180	0.678841137
+Anaerobic selenocysteine-containing dehydrogenase(2761)	2761	0.654894547
+Spermidine synthase(744)	744	0.031699765
+Aspartokinase(3171)	3171	0.099781885
+"Sulfite reductase, beta subunit (hemoprotein)(315)"	315	0.002950961
+"Methylthioribose-1-phosphate isomerase (methionine salvage pathway), a paralog of eIF-2B alpha subunit(681)"	681	0.000183337
+3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase(276)	276	0.457651613
